@@ -1,0 +1,9 @@
+<?php
+$a=2;
+$b=5;
+$a=$a-$b;
+$b=$a+$b;
+$a=$b-$a;
+echo"a=$a.<br>";
+echo"b=$b";
+?>
